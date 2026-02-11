@@ -1,0 +1,16 @@
+{
+  "short_name": "RL Express",
+  "name": "RL EXPRESS - Gestão de Entregas",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2830/2830305.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#DC2626",
+  "background_color": "#09090b"
+}
