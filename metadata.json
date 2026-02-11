@@ -1,0 +1,7 @@
+{
+  "name": "RL EXPRESS.",
+  "description": "Aplicativo profissional para gestão de entregas com OCR inteligente e otimização de rotas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
